@@ -1,11 +1,7 @@
-## 下载
 
-```
-git clone git@github.com:ninghao/webapp-s01-pages.git
-```
 
 ## 安装
-可以使用 npm 或 [yarn](https://yarnpkg.com/zh-Hans/) 安装。推荐使用 yarn，因为这样更安全一些，它能确保我安装的包的版本跟你即将安装的包的版本一致，另外安装的速度也会更快。
+可以使用 npm 或 [yarn](https://yarnpkg.com/zh-Hans/) 安装。
 
 进入到项目所在的目录：
 ```
@@ -43,4 +39,3 @@ gulp serve
 ## 编辑项目
 用编辑器打开项目，然后去编辑在 `app` 目录下的东西，你可能还需要去编辑 `semantic` 目录下的东西。
 
-[ninghao.net](http://ninghao.net)
